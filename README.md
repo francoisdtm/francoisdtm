@@ -7,9 +7,9 @@
 }
 
 .francois-dtm {
-  age: 21yo;
+  age: 22yo;
   nationality: '🇫🇷';
-  height: 187cm;
+  height: 188cm;
   background: EPITA;
   display: boy;
 }
