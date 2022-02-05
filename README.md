@@ -1,16 +1,14 @@
 <!-- inspired by https://github.com/monkindey/monkindey -->
 
-```css
-#hi {
-  welcome: to-my-profile-page;
-  emoji: '✌🏻';
-}
+```yml
+# Hi
+welcome: to-my-profile-page
+emoji: ✌🏻
 
-.francois-dtm {
-  age: 22yo;
-  nationality: '🇫🇷';
-  height: 188cm;
-  background: EPITA;
-  display: boy;
-}
+francoisdtm:
+  age: 22
+  nationality: 🇫🇷
+  height: 188 #cm
+  background: EPITA
+  gender: male
 ```
